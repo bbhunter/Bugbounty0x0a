@@ -20,4 +20,6 @@
 
 ***11*** - Open redirection issue may exist into HTTP POST Request , Try it !.
 
+***12*** - If the application implement an open redirection protection on `?next=https://something` try `Http` or `HTTP` or `httP`, it may be bypassed. 
+
 ***∞*** - Don't give up.
