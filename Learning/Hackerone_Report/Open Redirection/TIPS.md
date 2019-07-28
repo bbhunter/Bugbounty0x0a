@@ -18,4 +18,6 @@
 
 ***10*** - Sometimes you must encode your payload to work.
 
+***11*** - Open redirection issue may exist into HTTP POST Request , Try it !.
+
 ***∞*** - Don't give up.
