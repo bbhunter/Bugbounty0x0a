@@ -22,4 +22,6 @@
 
 ***12*** - If the application implement an open redirection protection on `?next=https://something` try `Http` or `HTTP` or `httP`, it may be bypassed. 
 
+***13*** - If the application implement an open redirection protection on `?next=https://www.ewample.com/` then try an ip adress `?next=127.0.0.1` or `?next=127.1` or `?next=Http:362773246` , it may work to bypass protection.
+
 ***∞*** - Don't give up.
