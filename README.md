@@ -2,7 +2,7 @@
 
 all about bug hunting.
 
-I try to share with you my process of learning , including tools that I've used , some tips . 
+I try to share with you my process of learning , including tools that I've used , some tips. 
 
 Happy Hunting !
 
