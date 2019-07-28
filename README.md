@@ -1,5 +1,5 @@
 # Bugbounty0x0a
 
-This Repo contain shell script to install all the bug hunter tools .
+This Repo contain all abount bug hunting. 
 
 Happy Hunting !
