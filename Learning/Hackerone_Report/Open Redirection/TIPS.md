@@ -16,4 +16,6 @@
 
 ***9*** - Google is the best to help you find these type of issue try `site:example.com inurl="redirect="`.
 
+***10*** - Sometimes you must encode your payload to work.
+
 ***∞*** - Don't give up.
