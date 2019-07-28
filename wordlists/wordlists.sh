@@ -7,7 +7,7 @@ git clone https://github.com/decal/werdlists
 git clone https://github.com/berzerk0/Probable-Wordlists
 # Web-fuzz-wordlists
 git clone https://github.com/kaimi-io/web-fuzz-wordlists
-#Richelieu
+# Richelieu
 git clone https://github.com/tarraschk/richelieu
 #
 git clone 
