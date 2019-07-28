@@ -14,4 +14,6 @@
 
 ***8*** - Search for bypasses
 
-***9*** - Don't give up.
+***9*** - Google is the best to help you find these type of issue try `site:example.com inurl="redirect="`.
+
+***∞*** - Don't give up.
