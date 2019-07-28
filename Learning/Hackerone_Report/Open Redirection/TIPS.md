@@ -1,4 +1,4 @@
-***1*** - Using a proxy always look at Response Status code (3XX) and investigate it Request.
+***1*** - Using a proxy always , look at Response Status code (3XX) and investigate it Request.
 
 ***2*** - Keep your eye always on parametres like `redirect=` or `red=` and so on.
 
@@ -31,5 +31,7 @@
 ***16*** - Try to encode your payload multiple time to see if you can bypass the open redirection.
 
 ***17*** - Some application use a hashing schema to the redirected path try to crack all hashes, if yes try to hash your own payload, send it and see if there is an open redirection.
+
+***18*** - Always request `index.php` file this may redirect you to `http://www.example.com` so try `http://www.example.com/index.php/google.com` or `http://www.example.com/index.php/index.php//google.com` or `http://www.example.com/index.php/index.php.google.com` and so on , try all .
 
 ***∞*** - Don't give up.
