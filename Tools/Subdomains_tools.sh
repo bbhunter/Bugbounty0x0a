@@ -7,8 +7,8 @@ git clone https://github.com/rbsec/dnscan
 git clone https://github.com/blechschmidt/massdns
 # Knockpy Tool
 git clone https://github.com/guelfoweb/knock
-#
-git clone 
+# Dns-parallel-prober
+git clone https://github.com/lorenzog/dns-parallel-prober
 #
 git clone 
 #
