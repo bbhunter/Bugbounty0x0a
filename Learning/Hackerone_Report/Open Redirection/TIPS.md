@@ -24,4 +24,6 @@
 
 ***13*** - If the application implement an open redirection protection on `?next=https://www.ewample.com/` then try an ip adress `?next=127.0.0.1` or `?next=127.1` or `?next=Http:362773246` , it may work to bypass protection.
 
+***14*** - Always keep your eye on the web server it's configuration may be vulunerable to open redirection.
+
 ***∞*** - Don't give up.
