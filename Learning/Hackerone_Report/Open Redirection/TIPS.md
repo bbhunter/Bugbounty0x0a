@@ -26,4 +26,10 @@
 
 ***14*** - Always keep your eye on the web server it's configuration may be vulunerable to open redirection.
 
+***15*** - If you are faced with a long url that is encoded send it to Decoder into burp suite and decode it to see if there is a parametre that is used to redirection because it's difficult to observe it when it's encoded.
+
+***16*** - Try to encode your payload multiple time to see if you can bypass the open redirection.
+
+***17*** - Some application use a hashing schema to the redirected path try to crack all hashes, if yes try to hash your own payload, send it and see if there is an open redirection.
+
 ***∞*** - Don't give up.
