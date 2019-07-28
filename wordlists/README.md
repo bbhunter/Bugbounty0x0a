@@ -1,5 +1,5 @@
 ***Bug Hunter Wordlists***
-* Seclists By Jhason Haddix and Daniel miessler
+* Seclists By Jhason Haddix and Daniel Miessler
 * Werdlist By Decal
 * Probable-Wordlists by Berzerk0
 * Web-fuzz-wordlists by Kaimi-io
