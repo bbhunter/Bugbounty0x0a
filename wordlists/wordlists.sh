@@ -5,8 +5,8 @@ git clone https://github.com/danielmiessler/SecLists
 git clone https://github.com/decal/werdlists
 # Probable-Wordlists
 git clone https://github.com/berzerk0/Probable-Wordlists
-#
-git clone 
+# Web-fuzz-wordlists
+git clone https://github.com/kaimi-io/web-fuzz-wordlists
 #
 git clone 
 #
