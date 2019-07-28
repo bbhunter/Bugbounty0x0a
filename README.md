@@ -1,6 +1,8 @@
 # Bugbounty0x0a
 
-This Repo contain all about bug hunting. 
+all about bug hunting.
+
+I try to share with you my process of learning , including tools that I've used , some tips . 
 
 Happy Hunting !
 
