@@ -4,4 +4,5 @@
 * Dnscan
 * Massdns
 * Knockpy
+* Dns-parallel-prober
 * I will add more soon
