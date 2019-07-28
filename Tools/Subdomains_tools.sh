@@ -9,10 +9,10 @@ git clone https://github.com/blechschmidt/massdns
 git clone https://github.com/guelfoweb/knock
 # Dns-parallel-prober
 git clone https://github.com/lorenzog/dns-parallel-prober
-#
-git clone 
-#
-git clone 
+# SubEnum
+git clone https://github.com/itsKindred/subEnum
+# Sublert
+git clone https://github.com/yassineaboukir/sublert
 #
 git clone 
 #
