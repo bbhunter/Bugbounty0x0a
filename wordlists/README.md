@@ -8,4 +8,5 @@
 * Wordlist by Jeanphorn
 * Indonesian-wordlist by Geovedi
 * Commonspeak by Pentester-io
+* Wordlists by Xajkep
 * I will add more soon
