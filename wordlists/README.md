@@ -10,4 +10,5 @@
 * Commonspeak by Pentester-io
 * Wordlists by Xajkep
 * Wordlist-Dracos by Screetsec
+* Statistically-likely-usernames by insidetrust
 * I will add more soon
