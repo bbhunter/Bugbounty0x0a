@@ -9,4 +9,5 @@
 * Indonesian-wordlist by Geovedi
 * Commonspeak by Pentester-io
 * Wordlists by Xajkep
+* Wordlist-Dracos by Screetsec
 * I will add more soon
