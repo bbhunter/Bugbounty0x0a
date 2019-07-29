@@ -19,4 +19,6 @@ git clone https://github.com/geovedi/indonesian-wordlist
 git clone https://github.com/pentester-io/commonspeak
 # Wordlists
 git clone https://github.com/xajkep/wordlists
+# Wordlist-Dracos
+git clone https://github.com/Screetsec/Wordlist-Dracos
 #---------------------------------------------------------
