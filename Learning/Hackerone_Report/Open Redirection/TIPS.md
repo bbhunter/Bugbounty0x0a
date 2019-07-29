@@ -34,6 +34,8 @@
 
 ***18*** - Always request `index.php` file this may redirect you to `http://www.example.com` so try `http://www.example.com/index.php/google.com` or `http://www.example.com/index.php/index.php//google.com` or `http://www.example.com/index.php/index.php.google.com` and so on , try all .
 
-***19*** - Try to add more slashes into your payload this may bypass open redirection protection .
+***19*** - Try to add more slashes into your payload this may bypass open redirection protection (e.g ///////////////////////////////////////////////google.com) :) Works For Me .
+
+***20*** - Don't Forget Client Side Redirection look at JS code where there is a redirection specifically look for `window.location=` .
 
 ***∞*** - Don't give up.
