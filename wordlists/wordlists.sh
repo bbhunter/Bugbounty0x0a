@@ -9,8 +9,8 @@ git clone https://github.com/berzerk0/Probable-Wordlists
 git clone https://github.com/kaimi-io/web-fuzz-wordlists
 # Richelieu
 git clone https://github.com/tarraschk/richelieu
-#
-git clone 
+# PayloadsAllTheThings
+git clone https://github.com/swisskyrepo/PayloadsAllTheThings
 #
 git clone 
 #
