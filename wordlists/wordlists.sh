@@ -11,10 +11,10 @@ git clone https://github.com/kaimi-io/web-fuzz-wordlists
 git clone https://github.com/tarraschk/richelieu
 # PayloadsAllTheThings
 git clone https://github.com/swisskyrepo/PayloadsAllTheThings
-#
-git clone 
-#
-git clone 
-#
-git clone 
+# Wordlist
+git clone https://github.com/jeanphorn/wordlist
+# Indonesian-wordlist
+git clone https://github.com/geovedi/indonesian-wordlist
+# Commonspeak
+git clone https://github.com/pentester-io/commonspeak
 #---------------------------------------------------------
