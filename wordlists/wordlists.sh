@@ -25,4 +25,6 @@ git clone https://github.com/Screetsec/Wordlist-Dracos
 git clone https://github.com/insidetrust/statistically-likely-usernames
 # WordLists-20111129
 git clone https://github.com/emadshanab/WordLists-20111129
+# Wordlists
+git clone https://github.com/0xdevalias/wordlists
 #--------------------------------------------------------------------
