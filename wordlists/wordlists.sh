@@ -17,4 +17,6 @@ git clone https://github.com/jeanphorn/wordlist
 git clone https://github.com/geovedi/indonesian-wordlist
 # Commonspeak
 git clone https://github.com/pentester-io/commonspeak
+# Wordlists
+git clone https://github.com/xajkep/wordlists
 #---------------------------------------------------------
