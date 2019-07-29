@@ -5,4 +5,7 @@
 * Web-fuzz-wordlists by Kaimi-io
 * Richelieu by Tarraschk
 * PayloadsAllTheThings by Swisskyrepo
+* Wordlist by Jeanphorn
+* Indonesian-wordlist by Geovedi
+* Commonspeak by Pentester-io
 * I will add more soon
