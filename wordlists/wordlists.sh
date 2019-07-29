@@ -21,4 +21,6 @@ git clone https://github.com/pentester-io/commonspeak
 git clone https://github.com/xajkep/wordlists
 # Wordlist-Dracos
 git clone https://github.com/Screetsec/Wordlist-Dracos
+# Statistically-likely-usernames
+git clone https://github.com/insidetrust/statistically-likely-usernames
 #--------------------------------------------------------------------
