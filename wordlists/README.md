@@ -12,4 +12,5 @@
 * Wordlist-Dracos by Screetsec
 * Statistically-likely-usernames by insidetrust
 * WordLists-20111129 by Emadshanab
+* Wordlists by 0xdevalias
 * I will add more soon
