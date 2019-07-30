@@ -27,4 +27,8 @@ git clone https://github.com/insidetrust/statistically-likely-usernames
 git clone https://github.com/emadshanab/WordLists-20111129
 # Wordlists
 git clone https://github.com/0xdevalias/wordlists
+# Tl-wordlist
+git clone https://github.com/jmalonzo/tl-wordlist
+# Sublazerwlst
+git clone https://github.com/sharsi1/sublazerwlst
 #--------------------------------------------------------------------
