@@ -1,13 +1,11 @@
 # Bugbounty0x0a
 
-all about bug hunting.
+I try to share my process to get into bug hunting world , this repositorie contains writeups,reports,tools,tips,wordlists etc .
 
-I try to share with you my process of learning , including tools that I've used , some tips. 
+I will update this repo once I have learn new things or read some blogs .
 
-I'm Still learning.
+**Contact Me:**
 
-Happy Hunting !
+[Email](ihebhamad514@gmail.com)
 
-***Email:*** ihebhamad514@gmail.com
-
-***Twitter:*** https://twitter.com/ihebhamad514
+[Twitter](https://twitter.com/ihebhamad514)
