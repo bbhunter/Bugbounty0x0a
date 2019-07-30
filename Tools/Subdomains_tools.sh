@@ -25,4 +25,6 @@ git clone https://github.com/gnebbia/pdlist
 git clone https://github.com/Threezh1/SubdomainFinder
 # BingSubFinder
 git clone https://github.com/tnsk/BingSubFinder
+# CCrawlDNS
+git clone https://github.com/lgandx/CCrawlDNS
 #-----------------------------------------------------------
