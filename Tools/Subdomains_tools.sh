@@ -19,10 +19,10 @@ git clone https://github.com/christophetd/censys-subdomain-finder
 git clone https://github.com/gfek/Lepus
 # Subdomain_finder
 git clone https://github.com/APT55/subdomain_finder
-#
-git clone 
-#
-git clone 
-#
-git clone 
+# Pdlist
+git clone https://github.com/gnebbia/pdlist
+# SubdomainFinder
+git clone https://github.com/Threezh1/SubdomainFinder
+# BingSubFinder
+git clone https://github.com/tnsk/BingSubFinder
 #-----------------------------------------------------------
