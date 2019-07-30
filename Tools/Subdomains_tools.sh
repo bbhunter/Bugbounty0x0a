@@ -13,12 +13,12 @@ git clone https://github.com/lorenzog/dns-parallel-prober
 git clone https://github.com/itsKindred/subEnum
 # Sublert
 git clone https://github.com/yassineaboukir/sublert
-#
-git clone 
-#
-git clone 
-#
-git clone 
+# Censys-subdomain-finder
+git clone https://github.com/christophetd/censys-subdomain-finder
+# Lepus
+git clone https://github.com/gfek/Lepus
+# Subdomain_finder
+git clone https://github.com/APT55/subdomain_finder
 #
 git clone 
 #
